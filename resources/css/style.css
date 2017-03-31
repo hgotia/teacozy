@@ -57,7 +57,7 @@ nav span a {
   align-items: center;
   height: 700px;
   width: 1200px;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+  background-image: url(https://github.com/hgotia/teacozy/blob/master/resources/images/img-mission-background.jpg?raw=true);
 }
 
 .missiontext {
@@ -125,7 +125,7 @@ nav span a {
 }
 
 .location-background {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  background-image: url(https://github.com/hgotia/teacozy/blob/master/resources/images/img-locations-background.jpg?raw=true);
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 300px 1 1;
